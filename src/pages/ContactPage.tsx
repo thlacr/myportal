@@ -114,8 +114,8 @@ const ContactPage: React.FC = () => {
                 <div>
                   <h4 className="text-lg font-semibold">Office</h4>
                   <address className="text-neutral-600 not-italic">
-                  58, Shiv Shakti Nagar,<br />
-                  Mansarovar, Jaipur - 302020
+                  2/91/20, BP Raju Marg, Laxmi Cyber City, Whitefields,<br />
+                  Kondapur, Telangana 500081
                   </address>
                 </div>
               </div>
